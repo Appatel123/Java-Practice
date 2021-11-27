@@ -13,6 +13,7 @@ public class Assignmentop {
         int f=15;
         int k=100;
         int l=5;
+        int z=12;
         x+=5;
         y-=5;
         a*=5;
