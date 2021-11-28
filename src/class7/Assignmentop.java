@@ -36,14 +36,6 @@ public class Assignmentop {
         System.out.println(d);
         System.out.println(f);
         System.out.println(k);
-        System.out.println(l);
-
-
-
-
     }
 }
 
-    git config --global user.name "amit.patel536@gmail.com"
-        $ git config --global user.email "Appatel123"
-        $ git config -l
