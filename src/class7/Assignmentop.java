@@ -43,3 +43,7 @@ public class Assignmentop {
 
     }
 }
+
+    git config --global user.name "amit.patel536@gmail.com"
+        $ git config --global user.email "Appatel123"
+        $ git config -l
