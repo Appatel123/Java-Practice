@@ -36,6 +36,7 @@ public class Assignmentop {
         System.out.println(d);
         System.out.println(f);
         System.out.println(k);
+        System.out.println(l);
     }
 }
 
